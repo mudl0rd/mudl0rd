@@ -8,8 +8,6 @@
 - 📄 Worked on:
   - [A VisualBoyAdvance fork](https://github.com/visualboyadvance-m/visualboyadvance-m)
   - [Glide64](https://github.com/gonetz/glidehqplusglitch64)
-  - [Random N64 stuff for libretro](https://www.libretro.com/)
-  - [foo_dsp_effect](https://www.foobar2000.org/components/view/foo_dsp_effect)
-  - an x86 PE executable compressor.
+  - [Random N64 stuff for libretro](https://www.libretro.com/), as well as other bits and pieces.
   - [Project64/Mupen64Plus port of parallel-rdp](https://mudl0rd.github.io/Parallel-RDP/)
-  - Several demoscene demos.
+  - Several demoscene demos, won several awards as result.
