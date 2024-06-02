@@ -1,4 +1,4 @@
-![logo_steam](https://github.com/mudl0rd/mudl0rd/assets/158626984/0be21e69-f6b5-4d50-b378-40e2e6dca5c6)### Hello there 👋
+### Hello there 👋
 
 #### Random code alchemist
 
