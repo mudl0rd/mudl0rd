@@ -12,6 +12,6 @@
   - [A VisualBoyAdvance fork](https://github.com/visualboyadvance-m/visualboyadvance-m)
   - [Glide64](https://github.com/gonetz/glidehqplusglitch64)
   - [Random N64 stuff for libretro](https://www.libretro.com/), as well as other bits and pieces.
-  - [Windows-only WIMP libretro frontend/loader[(https://github.com/mudl0rd/einweggerat)
+  - [Windows-only WIMP libretro frontend/loader](https://github.com/mudl0rd/einweggerat)
   - [Project64/Mupen64Plus port of parallel-rdp](https://mudl0rd.github.io/Parallel-RDP/)
   - Several demoscene demos, won several awards as result.
