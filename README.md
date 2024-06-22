@@ -15,3 +15,4 @@
   - [Windows-only WIMP libretro frontend/loader](https://github.com/mudl0rd/einweggerat)
   - [Project64/Mupen64Plus port of parallel-rdp](https://mudl0rd.github.io/Parallel-RDP/)
   - Several demoscene demos, won several awards as result.
+  - A 32-bit Windows PE packer
