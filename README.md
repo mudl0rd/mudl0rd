@@ -6,7 +6,7 @@
 - 🌍 **Makes random code with zero use anywhere, to anyone, at any time.**
   - Expect code to be half-baked, half-done, and full of jank.
   - Use **anything else** for any purpose the code is done for, for proper use. Seriously.
-  - Pull requests are completely unwelcome. Issue reports/feature reports are ignored with extreme prejudice.
+  - Pull requests are completely unwelcome. Issue reports/feature requests are ignored with extreme prejudice.
 - 📝 [Random blog is here](https://mudl0rd.github.io/)
 - ![Steam-icon](https://github.com/mudl0rd/mudl0rd/assets/158626984/83b5eedf-082a-4974-994c-d19c33ce1ec8)[Steam profile](https://steamcommunity.com/id/netfluxed/)
 - 📄 Worked on:
