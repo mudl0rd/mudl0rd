@@ -8,6 +8,7 @@
   - Use **anything else** for any purpose the code is done for, for proper use. Seriously.
   - Pull requests/issue reports/feature requests are unwelcome.
 - 📝 [Random blog is here](https://mudl0rd.github.io/)
+- ![Steam-icon](https://github.com/mudl0rd/mudl0rd/assets/158626984/83b5eedf-082a-4974-994c-d19c33ce1ec8)[Steam profile](https://steamcommunity.com/id/netfluxed/)
 - 📄 Worked on:
   - [A VisualBoyAdvance fork](https://github.com/visualboyadvance-m/visualboyadvance-m)
   - [Glide64](https://github.com/gonetz/glidehqplusglitch64)
