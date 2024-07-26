@@ -4,6 +4,7 @@
 
 - ⚙️ C/C++/x86 ASM/GLSL
 - 🌍 **Makes random code with zero use anywhere, to anyone, at any time.**
+  - **"Why moan, and not make your own?"**
   - Expect code to be half-baked, half-done, and full of jank.
   - Use **anything else** for any purpose the code is done for, for proper use. Seriously.
   - Pull requests/issue reports/feature requests are unwelcome.
