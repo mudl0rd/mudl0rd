@@ -14,7 +14,7 @@
 >   - Audio DSP/synthesis.
 >   - Graphics rendering.
 >   - Software reverse engineering.
->   - Optimization/
+>   - Optimization.
 >   - Emulation in an unorthodox manner.
 
 ### Blogs posts
