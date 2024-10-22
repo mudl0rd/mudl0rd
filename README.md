@@ -1,4 +1,4 @@
-## ⚡ There is no end-user support done here.
+## ⚡ There is no end-user support for things here.
 
 ## Why no support?
 
