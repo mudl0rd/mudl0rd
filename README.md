@@ -18,7 +18,7 @@
 
 ## What do you do?
 
- * **I am petty enough to do things for myself, my way. No matter how wrong the way is to do.**
+ * **I am petty enough to do things for myself, my way. No matter how wrong its done.**
  * *Experimenting* with things like:
    - Compression.
    - Audio DSP/synthesis.
