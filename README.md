@@ -6,6 +6,14 @@
  * Prefer to do all code, at own pace, in own time.
  * See [this](https://aarongiles.com/dreamm/docs/v30/#faq-opensource) for ideas why no collab.
 
+
+## Why some stuff missing?
+
+ * Legality, to be honest. Some involve code modification/hooks of proprietary applications.
+   - This also applies to some app-private APIs being reverse engineered.
+ * Personal reasons (like in WTFweg's case) to keep personal to myself.
+ * Some stuff I don't feel are quality enough (I know its ironic, even for me) to make public.
+
 ## What do you do?
 
  * **I am petty enough to do things for myself, my way. No matter how wrong the way is to do.**
