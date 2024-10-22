@@ -25,7 +25,7 @@
    - Graphics rendering.
    - Software reverse engineering.
    - Optimization.
-   - Emulation in an unorthodox manner.
+   - Emulation in purely jank ways.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
