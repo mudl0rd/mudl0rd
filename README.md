@@ -17,7 +17,7 @@
    - Optimization.
    - Emulation in an unorthodox manner.
 
-### Blogs posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [WTFweg retrospective](http://mudl0rd.github.io/WTFweg/)
 - [Dual booting Windows 7 and Linux Mint](http://mudl0rd.github.io/Dual-booting-Win7Linux/)
