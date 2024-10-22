@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [WTFweg retrospective](http://mudl0rd.github.io/WTFweg/)
+- [Dual booting Windows 7 and Linux Mint](http://mudl0rd.github.io/Dual-booting-Win7Linux/)
+- [Online radio stream analysis for fun and profit](http://mudl0rd.github.io/Online-radio-analysis/)
+- [paraLLEl-RDP ported to PJ64 and Mupen64Plus](http://mudl0rd.github.io/Parallel-RDP/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
