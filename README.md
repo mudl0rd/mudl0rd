@@ -2,20 +2,20 @@
 
 ## Why no support?
 
-> * Designed all for own personal usage, thus no issue reports/pull requests.
-> * Prefer to do all code, at own pace, in own time.
-> * See [this](https://aarongiles.com/dreamm/docs/v30/#faq-opensource) for ideas why no collab.
+ * Designed all for own personal usage, thus no issue reports/pull requests.
+ * Prefer to do all code, at own pace, in own time.
+ * See [this](https://aarongiles.com/dreamm/docs/v30/#faq-opensource) for ideas why no collab.
 
 ## What do you do?
 
-> * **I am petty enough to do things for myself, my way. No matter how wrong the way is to do.**
-> * *Experimenting* with things like:
->   - Compression.
->   - Audio DSP/synthesis.
->   - Graphics rendering.
->   - Software reverse engineering.
->   - Optimization.
->   - Emulation in an unorthodox manner.
+ * **I am petty enough to do things for myself, my way. No matter how wrong the way is to do.**
+ * *Experimenting* with things like:
+   - Compression.
+   - Audio DSP/synthesis.
+   - Graphics rendering.
+   - Software reverse engineering.
+   - Optimization.
+   - Emulation in an unorthodox manner.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
