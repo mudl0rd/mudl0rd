@@ -13,6 +13,7 @@
    - This also applies to some app-private APIs being reverse engineered.
  * Personal reasons (like in WTFweg's case) to keep personal to myself.
  * Some stuff I don't feel are quality enough (I know its ironic, even for me) to make public.
+   - Plus I am too lazy to sort into a coherant repo for some of them.
 
 ## What do you do?
 
