@@ -5,6 +5,7 @@
  * Designed all for own personal usage, thus no issue reports/pull requests.
  * Prefer to do all code, at own pace, in own time.
  * See [this](https://aarongiles.com/dreamm/docs/v30/#faq-opensource) for ideas why no collab.
+ * Code is pure jank and I prefer no one use it, if possible, unless otherwise noted.
 
 
 ## Why some stuff missing?
