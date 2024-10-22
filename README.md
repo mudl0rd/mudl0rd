@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# ⚡ There is zero end user support on anything done here.
+# ⚡ There is 0 end-user support on anything done here.
 
 ## Why no support?
 
@@ -18,8 +16,6 @@
 >   - Software reverse engineering.
 >   - Optimization/
 >   - Emulation in an unorthodox manner.
-
-
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
