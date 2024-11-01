@@ -3,15 +3,13 @@
 ## Why no support?
 
  * For personal usage only, thus no issue reports/pull requests.
- * Prefer to do code at own pace, in own time.
- * See [this](https://aarongiles.com/dreamm/docs/v30/#faq-opensource) for ideas why no collab.
  * **Code is pure jank** and **I prefer no one use it**, if possible, unless otherwise noted.
 
 
 ## Why some stuff missing?
 
- * Legality, to be honest. Some involve code modification of proprietary applications.
- * Some stuff I don't feel are quality enough (I know its ironic, even for me) to make public.
+ * Legality, to be honest.
+ * Some stuff isn't quality enough (I know its ironic, even for me) to make public.
    - Plus I am too lazy to sort into a coherant repo for some of them.
 
 ## What do you do?
@@ -22,7 +20,7 @@
    - Audio DSP/synthesis.
    - Graphics rendering.
    - Software reverse engineering.
-   - Emulation in purely jank ways.
+   - Emulation in **purely** jank ways. Don't expect "accurate" emulation.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
