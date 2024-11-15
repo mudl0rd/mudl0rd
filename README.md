@@ -14,7 +14,7 @@
 
 ## What do you do?
 
- * **I am petty enough to do things for myself. No matter how wrongly its done.**
+ * [**I am petty enough to do things for myself. No matter how wrongly its done.**](http://mudl0rd.github.io/WTFweg/)
  * *Experimenting* with things like:
    - Compression.
    - Audio DSP/synthesis.
