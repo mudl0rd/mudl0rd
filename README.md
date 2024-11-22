@@ -3,7 +3,7 @@
 ## Why no support?
 
  * Personal usage only, thus no issue reports/pull requests.
- * **Code is pure jank**. Code is done for intentionally unorthodox reasons.
+ * **Code is pure jank**. Code is done for unorthodox reasons.
 
 ## What do you do?
 
