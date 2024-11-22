@@ -3,7 +3,7 @@
 ## Why no support?
 
  * Personal usage only, thus no issue reports/pull requests.
- * **Code is pure jank**. And intentionally so. Code is done for intentionally unorthodox reasons.
+ * **Code is pure jank**. Code is done for intentionally unorthodox reasons.
 
 ## What do you do?
 
@@ -13,7 +13,7 @@
    - Audio DSP/synthesis.
    - Graphics rendering.
    - Software reverse engineering.
-   - Emulation in **purely** jank ways. **Don't expect "accurate" emulation at all**.
+   - Emulation in **purely** jank/unorthodox ways. **Don't expect "accurate" emulation at all. Ever**.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
