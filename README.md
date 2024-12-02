@@ -13,7 +13,7 @@
    - Audio DSP/synthesis.
    - Graphics rendering.
    - Software reverse engineering.
-   - Emulation in **purely** jank/unorthodox ways. **Don't expect "accurate" emulation at all. Ever**.
+   - Emulation in **purely** jank ways. **Don't expect "accuracy". Ever**.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
