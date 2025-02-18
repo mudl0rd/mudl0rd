@@ -3,6 +3,7 @@
 ## Why no support?
 
  * Personal usage only, thus no issue reports/pull requests.
+   - Pull requests will be terminated with extreme prejudice.
  * **Code is pure jank and shouldn't be used by anyone.**
 
 ## What do you do?
