@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: work
 on: 
     schedule:
         - cron: '0 * * * *'
